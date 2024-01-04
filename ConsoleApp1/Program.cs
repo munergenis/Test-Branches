@@ -10,8 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //Main branch
-            Console.WriteLine("hello");
+            //Dev branch
+            Console.WriteLine("hello I'm the Dev branch");
 
             Console.ReadKey();
         }
