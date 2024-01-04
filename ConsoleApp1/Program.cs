@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             //Dev branch
             Console.WriteLine("hello I'm the Dev branch");
+            Console.WriteLine("and I made some changes");
 
             Console.ReadKey();
         }
