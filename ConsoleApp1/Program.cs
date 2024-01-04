@@ -14,17 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("hello I'm the Main branch");
             Console.WriteLine("and I made some changes too");
 
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
+                        
             //Dev branch
             Console.WriteLine("hello I'm the Dev branch");
             Console.WriteLine("and I made some changes");
