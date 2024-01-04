@@ -11,7 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //Main branch
-            Console.WriteLine("hello");
+            Console.WriteLine("hello I'm the Main branch");
+            Console.WriteLine("and I made some changes too");
 
             Console.ReadKey();
         }
